@@ -1,6 +1,6 @@
 # Thesis plan
 
-## Check the [PIC](/aux/93748_PIC_Rafael_Candeias.pdf) for better information
+## Check the [PIC](93748_PIC_Rafael_Candeias.pdf) for better information
 
 ## 1. Abstract
 
