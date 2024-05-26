@@ -1,6 +1,6 @@
 # Thesis plan
 
-## Check the [PIC](93748_PIC_Rafael_Candeias.pdf) for better information
+## Check the [PIC](Semi-Supervised_Learning_Applied_to_Soil_Nutrient_Estimation_Using_Earth_Observation_Data.pdf) for better information
 
 ## 1. Abstract
 
